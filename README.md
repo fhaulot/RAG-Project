@@ -2,7 +2,7 @@
 
 In this repository, we'll implement a Retrieval-Augmented Generation (RAG) system using Google Generative AI. The system will be able to answer questions based on a set of documents by retrieving relevant information and generating coherent responses. The main components of the system include:
 
-'''
+
 RAG Project
 + instructions.md  
 + README.md  
@@ -15,7 +15,7 @@ RAG Project
 + data  
   |-- previous_code  
   `-- texts  
-'''
+
 
 ## Environment
 
