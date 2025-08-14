@@ -4,17 +4,17 @@ In this repository, we'll implement a Retrieval-Augmented Generation (RAG) syste
 
 """
 RAG Project
-├─ instructions.md
-├─ README.md
-├─ .gitignore
-├─ .env
-├─ .venv
-├─ rag_launcher.py
-├─ rag_system.py
-├─ requirements.txt
-└─ data
-├─ previous_code
-└─ texts
++ instructions.md  
++ README.md  
++ .gitignore  
++ .env  
++ .venv  
++ rag_launcher.py  
++ rag_system.py  
++ requirements.txt  
++ data  
+  |-- previous_code  
+  `-- texts  
 """
 
 ## Environment
