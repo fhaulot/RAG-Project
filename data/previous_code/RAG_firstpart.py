@@ -33,3 +33,4 @@ prompt_embed = genai.embed_content(
 )
 
 print(prompt_embed['embedding'])
+
